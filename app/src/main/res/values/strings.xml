@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KosmosTest</string>
+    <string name="show_details">Mostrar detalles</string>
+    <string name="hide_details">Ocultar detalles</string>
+</resources>
